@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Jin Yang's Website</title>
@@ -35,6 +34,10 @@ academic side of me to you. However, (certainly) there're more. The structure is
 	<li><a href = "https://ebookcentral.proquest.com/lib/ucsd/reader.action?docID=3339490">COGS 118A textbook: Machine Learning: 
 	a Probabilistic Perspective</a> (Need UCSD proxy)</li>
   </ul>
+	
+<!-- You will not be able to see this text.
+
+Read more: https://html.com/tags/comment-tag/#ixzz5TPZLIML6
   <ul> <p>Grad Application</p>
     <li><a href = "https://www.applyweb.com/cgi-bin/app?s=stanford">Stanford</a></li>
 	<li><a href = "https://apply-ssd.uchicago.edu/apply/">U Chicago</a></li>
@@ -46,6 +49,8 @@ academic side of me to you. However, (certainly) there're more. The structure is
 	<li><a href = "https://apply.grad.wisc.edu/">Wisconsin-Madison</a></li>
 	<li><a href = "https://choose.umn.edu/apply/">U Minnesota</a></li>
   </ul>
+  
+   -->
   
   <ul> <p>ECON Courses</p>
     <li><a href = "http://www.johnasker.com/IO.html">John Asker IO</a></li>
