@@ -12,6 +12,13 @@
 <img src="Torres.jpg" alt="My buddy Fernando!!!" width="200" height="160">
 </a>
 </p>
+
+<p><strong>UPDATE </strong>: my revealed preference experiment website is online now. Please follow the url link here: 
+	<a href = "https://rp-exp.firebaseapp.com/home">https://rp-exp.firebaseapp.com/</a></p>
+<p> I will update all files to GitHub soon. </p>
+	
+		
+
 <p>I am an undergraduate Economics/Mathematics student in University California, San Diego. The primary purpose of this website is to introduce the 
 academic side of me to you. However, (certainly) there're more. The structure is organized as follows:</p>
 <ul>
