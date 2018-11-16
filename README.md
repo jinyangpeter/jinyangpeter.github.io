@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Jin Yang's Website</title>
+Jin Yang's Peronsal Website
 </head>
 <body>
 
@@ -13,25 +13,23 @@
 </a>
 </p>
 
-<p><strong>UPDATE </strong>: my revealed preference experiment website is online now. Please follow the url link here: 
-	<a href = "https://rp-exp.firebaseapp.com/home">https://rp-exp.firebaseapp.com/</a></p>
+<h2><strong>UPDATE </strong>: my revealed preference experiment website is online now. Please follow the url link here: 
+	<a href = "https://rp-exp.firebaseapp.com/home">https://rp-exp.firebaseapp.com/</a></h2>
 <p> I will update all files to GitHub soon. </p>
 	
 		
 
-<p>I am an undergraduate Economics/Mathematics student in University California, San Diego. The primary purpose of this website is to introduce the 
-academic side of me to you. However, (certainly) there're more. The structure is organized as follows:</p>
-<ul>
-	<li>Economics/Mathematics courses I have taken/am taking/will take (48% <strong> INTERESTS</strong> + 26% pressure + 21% expectation + 5% dizziness (but <strong>NEVER</strong> sleep!!!)</li>
-	<li>Related experience as a student (which sadly essantially non-exist)</li>
-	<li><a href = "Jin Yang-Final Draft (Edited).pdf">Papers and other writings</a> (<strike>yahn, you wish</strike> okay I give in)</li>
+<p>I am a senior year undergraduate Economics/Mathematics student in University California San Diego. I am now applying for PhD programs
+in Economics. I would update any application results here as soon as possible.<br/> 
+The primary purpose of this website is to record things happened in my life, as well as to share something useful
+to any potential visitors (I doubt hardly exist). If there is anything that interests you here, feel free to contact with me by
+my email: <a href = "jinyangpeter@gmail.com"> jinyangpeter@gmail.com</a>. </p>
+<ul> <p> Economics/Mathematics courses I find worth taking (48% <strong> INTERESTS</strong> + 26% pressure + 21% expectation + 5% dizziness (but <strong>NEVER</strong> sleep!!!) </p>
+	<li></li>
+	
+	<li><a href = "Jin Yang-Final Draft (Edited).pdf">Papers and other writings</a> </li>
 </ul>
 <p>Tutorial by: <a href = "https://www.w3schools.com/html/default.asp">w3schools</a></p>
-<h3> That's it for now. Thanks and have fun!</h3>
-<h6> Wait! Where's fun though...</h6>
-
-<p id ="boring">WARNING: DON NOT CLICK THIS!!!!!</p>
-<button type ="button" onclick='document.getElementById("boring").innerHTML = "Why do this!"'>DON'T!</button>
 
 <div style="background-color:lightblue">
   <h3>Fine. Let's bring something USEFUL: learning modules</h3>
@@ -42,22 +40,6 @@ academic side of me to you. However, (certainly) there're more. The structure is
 	a Probabilistic Perspective</a> (Need UCSD proxy)</li>
   </ul>
 	
-<!-- You will not be able to see this text.
-
-Read more: https://html.com/tags/comment-tag/#ixzz5TPZLIML6
-  <ul> <p>Grad Application</p>
-    <li><a href = "https://www.applyweb.com/cgi-bin/app?s=stanford">Stanford</a></li>
-	<li><a href = "https://apply-ssd.uchicago.edu/apply/">U Chicago</a></li>
-	<li><a href = ""></a></li>
-	<li><a href = ""></a></li>
-	<li><a href = ""></a></li>
-	<li><a href = "https://apply.grad.ucsd.edu/my-applications">UCSD</a></li>
-	<li><a href = "https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=dukegrad">Duke</a></li>
-	<li><a href = "https://apply.grad.wisc.edu/">Wisconsin-Madison</a></li>
-	<li><a href = "https://choose.umn.edu/apply/">U Minnesota</a></li>
-  </ul>
-  
-   -->
   
   <ul> <p>ECON Courses</p>
     <li><a href = "http://www.johnasker.com/IO.html">John Asker IO</a></li>
@@ -77,7 +59,8 @@ Read more: https://html.com/tags/comment-tag/#ixzz5TPZLIML6
   </ul>
   
   <ul> <p>MIT Opencourseware</p>
-	<li><a href = "https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/index.htm">Finance Theory I</a></li>
+	<li><a href = "https://ocw.mit.edu/courses/sloan-school-of-management/15-401-finance-theory-i-fall-2008/index.htm">Finance Theory I</a> I highly recommand this one
+	for people with some math background who would like to learn some serious introductory finance theory. I really LOVE professor Lo's lectures.</li>
 	<li><a href = "https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm">Statistics for Application</a></li>
   </ul>
   
